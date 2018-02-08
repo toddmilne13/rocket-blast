@@ -6,25 +6,16 @@
 <body>
 
  <video autoplay loop id="vid">
-<source src="https://www.express.co.uk/news/science/915440/spacex-launch-video-watch-falcon-heavy-blast-off-again">
+
 </video>
 
 <style>
-
- video#vid {
- position: fixed; right: 0; bottom: 0;
- min-width: 100%; min-height: 100%;
- width: auto; height: auto; z-index: -100;
- background-size: cover;
- margin: 0 auto;
-     zoom: 30%;
-}
 
 .blink_text {                                                        
     animation:1s blinker linear infinite;                
     -webkit-animation:1s blinker linear infinite;
     -moz-animation:1s blinker linear infinite;
-     color: white;
+     color: black;
      font-family: monospace;
      text-align:center;
      font-size:68px;
