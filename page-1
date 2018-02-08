@@ -4,43 +4,8 @@
 <title>Rocket Blast</title>
 </head>
 <body>
-
- <video autoplay loop id="vid">
-
-</video>
-
 <style>
-
-.blink_text {                                                        
-    animation:1s blinker linear infinite;                
-    -webkit-animation:1s blinker linear infinite;
-    -moz-animation:1s blinker linear infinite;
-     color: black;
-     font-family: monospace;
-     text-align:center;
-     font-size:68px;
-text-
-    }
-    @-moz-keyframes blinker {  
-     0% { opacity: 1.0; }
-     50% { opacity: 0.0; }
-     100% { opacity: 1.0; }
-     }
-    @-webkit-keyframes blinker {  
-     0% { opacity: 1.0; }
-     50% { opacity: 0.0; }
-     100% { opacity: 1.0; }
-     }
-    @keyframes blinker {  
-     0% { opacity: 1.0; }
-     50% { opacity: 0.0; }
-     100% { opacity: 1.0; }
-     }
-    }
-
 </style>
 <h1 class="blink_text">Falcon heavy Rocket Blast</h1>
-<p></p>
-
 </body>
 </html>
