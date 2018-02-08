@@ -4,7 +4,21 @@
 <title>Rocket Blast</title>
 </head>
 <body>
+
+ <video autoplay loop id="vid">
+<source src="https://www.express.co.uk/news/science/915440/spacex-launch-video-watch-falcon-heavy-blast-off-again">
+</video>
+
 <style>
+
+ video#vid {
+ position: fixed; right: 0; bottom: 0;
+ min-width: 100%; min-height: 100%;
+ width: auto; height: auto; z-index: -100;
+ background-size: cover;
+ margin: 0 auto;
+     zoom: 30%;
+}
 
 .blink_text {                                                        #got this from my tesla website
     animation:1s blinker linear infinite;                
