@@ -20,7 +20,7 @@
      zoom: 30%;
 }
 
-.blink_text {                                                        #got this from my tesla website
+.blink_text {                                                        
     animation:1s blinker linear infinite;                
     -webkit-animation:1s blinker linear infinite;
     -moz-animation:1s blinker linear infinite;
